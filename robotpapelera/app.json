@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "robotpapelera",
+    "slug": "robotpapelera",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "robotpapelera"
+}
